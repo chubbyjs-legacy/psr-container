@@ -2,7 +2,7 @@
 
 ## Description
 
-Common Container Interface (PHP FIG PSR-11).
+Common Container Interface ([PHP FIG][2] [PSR-11][3]).
 
 ## Requirements
 
@@ -26,3 +26,6 @@ PHP:
  * 2016 PHP Framework Interoperability Group
 
 [1]: https://www.npmjs.com/package/psr-container
+
+[2]: https://www.php-fig.org/
+[3]: https://www.php-fig.org/psr/psr-11/
