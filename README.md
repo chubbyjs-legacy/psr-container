@@ -19,7 +19,7 @@ npm i @chubbyjs/psr-container@1.0
 ## Copyright
 
 Typescript:
- * 2020 Dominik Zogg
+ * 2021 Dominik Zogg
 
 PHP:
  * 2013-2016 container-interop
